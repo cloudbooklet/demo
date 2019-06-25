@@ -1,2 +1,2 @@
 <?php 
-echo 'Demo Test Job'; 
+echo 'Demo Test'; 
